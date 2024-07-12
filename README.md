@@ -7,8 +7,6 @@ Steps to insatll cloud watch agent
 ## 1. Create a IAM role for EC2 Instance
 
 ```bash
-
-    Go to System Manager
   * Create a Windows EC2 Instances in Running state *
 
   Go to IAM > Roles > Create role
@@ -27,6 +25,7 @@ Select the Instance > action > Security > Modify IAM role > Select the role whic
 ## 3. Install CloudWatch agent using System manager
 
 ```bash
+Go to System Manager
 * Cross check the Instance in Fleet Manager *
 1. run command
 2. Command Document: AWS-ConfigureAWSPackage.
