@@ -7,6 +7,8 @@ Steps to insatll cloud watch agent
 ## 1. Create a IAM role for EC2 Instance
 
 ```bash
+
+    Go to System Manager
   * Create a Windows EC2 Instances in Running state *
 
   Go to IAM > Roles > Create role
