@@ -1,5 +1,5 @@
 
-# Cloud watch agent installation
+# Cloud watch agent installation on Windows
 
 Steps to insatll cloud watch agent
 
